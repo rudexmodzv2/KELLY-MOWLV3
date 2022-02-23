@@ -43,7 +43,7 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/Ajmal-Achu/Nandhutty_v2
-$ cd Nandhutty_v2
+$ cd KELLY-MOWLV3
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -52,7 +52,7 @@ $ node julie.js
 ```js
 SETUP
 $ git clone https://github.com/Ajmallllllll/Nandhutty_v2
-$ cd Nandhutty_v2
+$ cd KELLY-MOWLV3
 $ npm i
 $ node julie.js
 ```
