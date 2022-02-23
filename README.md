@@ -92,7 +92,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## THANKS TO
 * [`Baileys`]
-* [`Ajmal-Achu`](github.com/Ajmal-Achu)
+* [`FAYAS-SER`](github.com/Ajmal-Achu)
 * [`Farhan-dqz`](github.com/Farhan-dqz)
 
 ## Developers
